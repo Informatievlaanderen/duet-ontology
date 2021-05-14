@@ -1,0 +1,27 @@
+[
+  {
+    "name": "air-cz-ap",
+    "type": "ap",
+    "eap": "air-cz.eap",
+    "diagram": "air-cz",
+    "template": "air-cz-ap_en.j2",
+    "title": "Czech Air Quality",
+    "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
+    "publication-date": "2021-05-01",
+    "license": "https://creativecommons.org/share-your-work/public-domain/cc0/",
+    "contributors-file": "stakeholders.csv",
+    "contributors-column": "MijnKolom",
+    "site": "site-skeleton/air-cz-ap",
+    "feedbackurl": "https://github.com/Informatievlaanderen/duet-vocabularies/issues",
+    "standaardregisterurl": " ",
+    "translation": [
+      {
+        "language": "en",
+        "template": "air-cz-ap_en.j2",
+        "title": "Czech Air Quality",
+        "translationjson": "air-cz-ap_en.json",
+        "mergefile": "air-cz-ap_en_merged.jsonld"
+      }
+    ]
+  }
+]
